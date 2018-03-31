@@ -1,6 +1,6 @@
 ## Statistics of solved tasks
 
-##### Total count: 4 tasks
+##### Total count: 8 tasks
 
 #### Solved:
   - Arrays
@@ -13,4 +13,6 @@
 #### Solved with hints:
   - Math
     - [All Factors](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/math/all-factors.js)
- 
+    - [Verify Prime](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/math/verify-prime.js)
+    - [Prime Numbers](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/math/prime-numbers.js)
+    - [Rearrange Array](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/math/rearrange-array.js)
