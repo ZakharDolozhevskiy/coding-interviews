@@ -6,11 +6,11 @@
 // Another possible answer : [4, 1, 3, 2]
 
 const wave = array => {
-	let sorted = array.sort((a, b) => a - b);
-	
-	for (let i = 0; i < array.length - 1; i += 2) {
-		[ sorted[i], sorted[i + 1] ] = [ sorted[i + 1], sorted[i] ];
-	}
-	
-	return sorted;
+  let sorted = array.sort((a, b) => a - b);
+
+  for (let i = 0; i < array.length - 1; i += 2) {
+    [sorted[i], sorted[i + 1]] = [sorted[i + 1], sorted[i]];
+  }
+
+  return sorted;
 };

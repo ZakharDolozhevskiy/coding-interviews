@@ -8,15 +8,15 @@
 // Note that in your output A should precede B.
 
 const repeatedNumber = array => {
-	let missed, repeated, i;
+  let missed, repeated, i;
 
-	array.sort((a,b) => a - b);
-	missed = array[0] !== 1 ? 1 : sorted[sorted.length - 1] + 1;
-	
-	for(i = 1; i < sorted.length; i++) {
-		if (sorted[i - 1] === sorted[i]) repeated = sorted[i];
-		if (sorted[i] - sorted[i - 1] > 1) missed = sorted[i] - 1;
-	}
-	
-	return [repeated, missed];
+  array.sort((a, b) => a - b);
+  missed = array[0] !== 1 ? 1 : sorted[sorted.length - 1] + 1;
+
+  for (i = 1; i < sorted.length; i++) {
+    if (sorted[i - 1] === sorted[i]) repeated = sorted[i];
+    if (sorted[i] - sorted[i - 1] > 1) missed = sorted[i] - 1;
+  }
+
+  return [repeated, missed];
 };

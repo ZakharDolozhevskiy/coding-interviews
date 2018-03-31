@@ -3,15 +3,15 @@
 // Return : [0, 1]
 
 const rearrangeArray = array => {
-	let size = array.length;
+  let size = array.length;
 
-	for (let i = 0; i < size; i++)
-		array[i] += (array[ array[i] ] % size) * size;
-	
-	for (let i = 0; i < size; i++)
-		array[i] = (array[i] / size) ^ 0;
-	
-	return array;
+  for (let i = 0; i < size; i++)
+    array[i] += (array[array[i]] % size) * size;
+
+  for (let i = 0; i < size; i++)
+    array[i] = (array[i] / size) ^ 0;
+
+  return array;
 };
 
 // A = B + C * N   if ( B, C < N )

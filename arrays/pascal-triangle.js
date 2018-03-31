@@ -11,22 +11,22 @@
 // [1,4,6,4,1]
 
 const generateTriangle = depth => {
-	if (!depth) return [];
+  if (!depth) return [];
 
-	let triangle = [[1]];
-	let prevRow = triangle[0];
-	let nextRow;
-	
-	while (triangle.length < depth) {
-		nextRow = [1];
-		
-		prevRow.forEach((num, i, arr) =>
-			arr[i] && arr[i + 1] && nextRow.push(arr[i] + arr[i + 1]));
-		
-		nextRow.push(1);
-		triangle.push(nextRow);
-		prevRow = nextRow;
-	}
-	
-	return triangle;
+  let triangle = [[1]];
+  let prevRow = triangle[0];
+  let nextRow;
+
+  while (triangle.length < depth) {
+    nextRow = [1];
+
+    prevRow.forEach((num, i, arr) =>
+      arr[i] && arr[i + 1] && nextRow.push(arr[i] + arr[i + 1]));
+
+    nextRow.push(1);
+    triangle.push(nextRow);
+    prevRow = nextRow;
+  }
+
+  return triangle;
 };

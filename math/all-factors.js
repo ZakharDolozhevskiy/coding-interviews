@@ -6,21 +6,21 @@
 // Hint: https://www.youtube.com/watch?v=dolcMgiJ7I0
 
 const allFactors = N => {
-	let factorA = 1;
-	let factorB = null;
-	let factorsA = [];
-	let factorsB = [];
-	
-	while (factorA <= Math.sqrt(N)) {
-		if (N % factorA === 0) {
-			factorB = N / factorA;
+  let factorA = 1;
+  let factorB = null;
+  let factorsA = [];
+  let factorsB = [];
 
-			factorsA.push(factorA);
-			(factorB !== factorA) && factorsB.unshift(factorB);
-		}
+  while (factorA <= Math.sqrt(N)) {
+    if (N % factorA === 0) {
+      factorB = N / factorA;
 
-		factorA++;
-	}
-	
-	return factorsA.concat(factorsB);
+      factorsA.push(factorA);
+      (factorB !== factorA) && factorsB.unshift(factorB);
+    }
+
+    factorA++;
+  }
+
+  return factorsA.concat(factorsB);
 };

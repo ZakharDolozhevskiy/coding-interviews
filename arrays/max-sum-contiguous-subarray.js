@@ -6,12 +6,12 @@
 // For this problem, return the maximum sum.
 
 const maxSubArray = array => {
-	let sum = -Infinity, maxSum = -Infinity;
-	
-	array.forEach(function(num){
-		sum = Math.max(sum + num, num);
-		maxSum = Math.max(maxSum, sum);
-	});
-	
-	return maxSum;
+  let sum = -Infinity, maxSum = -Infinity;
+
+  array.forEach(function (num) {
+    sum = Math.max(sum + num, num);
+    maxSum = Math.max(maxSum, sum);
+  });
+
+  return maxSum;
 };
