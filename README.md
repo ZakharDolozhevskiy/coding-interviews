@@ -11,8 +11,12 @@
     - [Get missed numbers](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/binary-search/get-missed-numbers.js)
     
 #### Solved with hints:
+  - Arrays
+    - [Max distance](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/binary-search/max-distance.js)
+    - [First missing integer](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/binary-search/first-missing-integer.js)
   - Math
     - [All Factors](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/math/all-factors.js)
     - [Verify Prime](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/math/verify-prime.js)
     - [Prime Numbers](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/math/prime-numbers.js)
     - [Rearrange Array](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/math/rearrange-array.js)
+    - [Prime Sum](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/math/prime-sum.js)
