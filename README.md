@@ -11,6 +11,8 @@
     - [Get missed numbers](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/binary-search/get-missed-numbers.js)
   - Dynamic programming
     - [Longest Increasing Subsequence](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/dynamic-programming/get-missed-numbers.js)
+  - Trees
+    - [Second largest item in bst](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/trees/second-largest-item-in-bst.js)
     
 #### Solved with hints:
   - Arrays
@@ -26,7 +28,9 @@
     - [Rearrange Array](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/math/rearrange-array.js)
     - [Prime Sum](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/math/prime-sum.js)
   - Trees
-    - [BST checker](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/trees/bst-checker.js)  
+    - [BST checker](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/trees/bst-checker.js)
+  - Other
+    - [Trie](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/other/trie.js)
     
 #### Courses:
   - [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1/home/welcome)
