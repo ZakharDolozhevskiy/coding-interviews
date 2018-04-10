@@ -1,6 +1,6 @@
 ## Statistics of solved tasks
 
-##### Total count: 24 tasks
+##### Total count: 28 tasks
 
 #### Solved:
   - Arrays
@@ -12,6 +12,9 @@
     - [Kth Row of Pascal's Triangle](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/kth-row-of-pascals-triangle.js)
     - [Max Non Negative Subarray](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/max-non-negative-subarray.js)
     - [Spiral Order Matrix 2](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/spiral-order-matrix-ii.js)
+    - [Merge Intervals](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/merge-intervals.js)
+    - [Anti diagonal](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/anti-diagonals.js)
+    - [Find duplicate in array O(n)](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/find-duplicate-in-array.js)
   - Binary search
     - [Get missed numbers](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/binary-search/get-missed-numbers.js)
   - Dynamic programming
@@ -34,6 +37,7 @@
     - [Prime Numbers](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/math/prime-numbers.js)
     - [Rearrange Array](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/math/rearrange-array.js)
     - [Prime Sum](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/math/prime-sum.js)
+    - [Excel Column Number](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/math/excel-column-number.js)
   - Trees
     - [BST checker](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/trees/bst-checker.js)
   - Other
