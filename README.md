@@ -1,9 +1,10 @@
 ## Statistics of solved tasks
 
-##### Total count: 28 tasks
+##### Total count: 31 tasks
 
 #### Solved:
   - Arrays
+    - [3 sum](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/3sum.js)
     - [Repeat and Missing Number Array](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/repeat-and-missing-number-array.js)
     - [Max Sum Contiguous Subarray](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/max-sum-contiguous-subarray.js)
     - [Pascal Triangle](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/pascal-triangle.js)
@@ -15,6 +16,7 @@
     - [Merge Intervals](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/merge-intervals.js)
     - [Anti diagonal](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/anti-diagonals.js)
     - [Find duplicate in array O(n)](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/find-duplicate-in-array.js)
+    - [Noble integer](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/noble-integer.js)
   - Binary search
     - [Get missed numbers](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/binary-search/get-missed-numbers.js)
   - Dynamic programming
@@ -29,6 +31,8 @@
     - [Largest Number](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/largest-number.js)
     - [Maximum Absolute Difference](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/maximum-absolute-difference.js)
     - [Flip](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/flip.js)
+    - [Hotel bookings possible](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/hotel-bookings-possible.js)
+    - [Maximum unsorted subarray](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/maximum-unsorted-subarray.js)
   - Dynamic programming
     - [Word break](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/dynamic-programming/word-break.js)
   - Math
