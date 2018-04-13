@@ -1,6 +1,6 @@
 ## Statistics of solved tasks
 
-##### Total count: 31 tasks
+##### Total count: 35 tasks
 
 #### Solved:
   - Arrays
@@ -17,6 +17,7 @@
     - [Anti diagonal](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/anti-diagonals.js)
     - [Find duplicate in array O(n)](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/find-duplicate-in-array.js)
     - [Noble integer](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/noble-integer.js)
+    - [Maximum Consecutive Gap](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/maximum-consecutive-gap.js)
   - Binary search
     - [Get missed numbers](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/binary-search/get-missed-numbers.js)
   - Dynamic programming
@@ -33,6 +34,7 @@
     - [Flip](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/flip.js)
     - [Hotel bookings possible](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/hotel-bookings-possible.js)
     - [Maximum unsorted subarray](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/maximum-unsorted-subarray.js)
+    - [Find the duplicate number](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/find-the-duplicate-number.js)
   - Dynamic programming
     - [Word break](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/dynamic-programming/word-break.js)
   - Math
@@ -42,6 +44,7 @@
     - [Rearrange Array](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/math/rearrange-array.js)
     - [Prime Sum](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/math/prime-sum.js)
     - [Excel Column Number](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/math/excel-column-number.js)
+    - [Grid unique paths](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/math/grid-unique-paths.js)
   - Trees
     - [BST checker](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/trees/bst-checker.js)
   - Other
