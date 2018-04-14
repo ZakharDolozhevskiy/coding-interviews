@@ -1,6 +1,6 @@
 ## Statistics of solved tasks
 
-##### Total count: 35 tasks
+##### Total count: 39 tasks
 
 #### Solved:
   - Arrays
@@ -18,6 +18,8 @@
     - [Find duplicate in array O(n)](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/find-duplicate-in-array.js)
     - [Noble integer](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/noble-integer.js)
     - [Maximum Consecutive Gap](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/maximum-consecutive-gap.js)
+  - Math
+    - [Palindrome integer](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/math/palindrome-integer.js)
   - Binary search
     - [Get missed numbers](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/binary-search/get-missed-numbers.js)
   - Dynamic programming
@@ -45,6 +47,9 @@
     - [Prime Sum](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/math/prime-sum.js)
     - [Excel Column Number](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/math/excel-column-number.js)
     - [Grid unique paths](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/math/grid-unique-paths.js)
+    - [Reverse integer](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/math/reverse-integer.js)
+    - [Greatest common divisor](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/math/greatest-common-divisor.js)
+    - [Sum of pairwise hamming distance](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/math/sum-of-pairwise-hamming-distance.js)
   - Trees
     - [BST checker](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/trees/bst-checker.js)
   - Other
