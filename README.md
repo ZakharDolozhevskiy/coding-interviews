@@ -1,6 +1,6 @@
 ## Statistics of solved tasks
 
-##### Total count: 42 tasks
+##### Total count: 43 tasks
 
 #### Solved:
   - Arrays
@@ -53,6 +53,8 @@
     - [Excel column title](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/math/excel-column-title.js)
     - [Sum of pairwise hamming distance](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/math/sum-of-pairwise-hamming-distance.js)
     - [Power Of Two Integers](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/math/power-of-two-integers.js)
+    - [Sorted Permutation Rank](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/math/sorted-permutation-rank.js)
+    - [Largest coprime divisor](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/math/largest-coprime-divisor.js)
   - Trees
     - [BST checker](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/trees/bst-checker.js)
   - Other
