@@ -1,6 +1,6 @@
 ## Statistics of solved tasks
 
-##### Total count: 39 tasks
+##### Total count: 42 tasks
 
 #### Solved:
   - Arrays
@@ -24,6 +24,7 @@
     - [Get missed numbers](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/binary-search/get-missed-numbers.js)
   - Dynamic programming
     - [Longest Increasing Subsequence](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/dynamic-programming/longest-increasing-subsequence.js)
+    - [House robber](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/dynamic-programming/house-robber.js)
   - Trees
     - [Second largest item in bst](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/trees/second-largest-item-in-bst.js)
     
@@ -49,7 +50,9 @@
     - [Grid unique paths](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/math/grid-unique-paths.js)
     - [Reverse integer](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/math/reverse-integer.js)
     - [Greatest common divisor](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/math/greatest-common-divisor.js)
+    - [Excel column title](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/math/excel-column-title.js)
     - [Sum of pairwise hamming distance](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/math/sum-of-pairwise-hamming-distance.js)
+    - [Power Of Two Integers](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/math/power-of-two-integers.js)
   - Trees
     - [BST checker](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/trees/bst-checker.js)
   - Other
