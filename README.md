@@ -1,6 +1,6 @@
 ## Statistics of solved tasks
 
-##### Total count: 43 tasks
+##### Total count: 48 tasks
 
 #### Solved:
   - Arrays
@@ -18,10 +18,13 @@
     - [Find duplicate in array O(n)](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/find-duplicate-in-array.js)
     - [Noble integer](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/noble-integer.js)
     - [Maximum Consecutive Gap](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/maximum-consecutive-gap.js)
+    - [Best Time to Buy and Sell Stock II](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/stocks-2.js)
+    - [Rotate Image](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/rotate-Image.js)
   - Math
     - [Palindrome integer](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/math/palindrome-integer.js)
   - Binary search
     - [Get missed numbers](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/binary-search/get-missed-numbers.js)
+    - [Sqrt(x)](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/binary-search/sqrtx.js)
   - Dynamic programming
     - [Longest Increasing Subsequence](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/dynamic-programming/longest-increasing-subsequence.js)
     - [House robber](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/dynamic-programming/house-robber.js)
@@ -55,6 +58,8 @@
     - [Power Of Two Integers](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/math/power-of-two-integers.js)
     - [Sorted Permutation Rank](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/math/sorted-permutation-rank.js)
     - [Largest coprime divisor](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/math/largest-coprime-divisor.js)
+    - [Trailing zeros in factorial](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/math/trailing-zeros-in-factorial.js)
+    - [Implement Power Function](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/math/powx-n.js)
   - Trees
     - [BST checker](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/trees/bst-checker.js)
   - Other
