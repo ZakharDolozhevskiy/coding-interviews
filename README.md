@@ -1,6 +1,6 @@
 ## Statistics of solved tasks
 
-##### Total count: 48 tasks
+##### Total count: 52 tasks
 
 #### Solved:
   - Arrays
@@ -20,6 +20,9 @@
     - [Maximum Consecutive Gap](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/maximum-consecutive-gap.js)
     - [Best Time to Buy and Sell Stock II](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/stocks-2.js)
     - [Rotate Image](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/rotate-Image.js)
+    - [Valid Sudoku](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/valid-sudoku.js)
+    - [Single number](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/single-number.js)
+    - [Intersection of two arrays 2](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/intersection-of-two-arrays-2.js)
   - Math
     - [Palindrome integer](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/math/palindrome-integer.js)
   - Binary search
@@ -28,6 +31,7 @@
   - Dynamic programming
     - [Longest Increasing Subsequence](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/dynamic-programming/longest-increasing-subsequence.js)
     - [House robber](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/dynamic-programming/house-robber.js)
+    - [Climbing stairs](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/dynamic-programming/climbing-stairs.js)
   - Trees
     - [Second largest item in bst](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/trees/second-largest-item-in-bst.js)
     
