@@ -8,7 +8,7 @@ const primeNumbers = N => {
   let result = [];
   let i, j;
 
-  for (i = 2; i <= N; i++) nums.push(true);
+  for (i = 2; i < N; i++) nums.push(true);
 
   for (i = 2; i <= Math.sqrt(N); i++) {
     if (nums[i]) {
@@ -22,4 +22,4 @@ const primeNumbers = N => {
   return result;
 };
 
-console.log(primeNumbers(30));
+console.log(primeNumbers(3));

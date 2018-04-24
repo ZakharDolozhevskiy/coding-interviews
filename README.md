@@ -1,6 +1,6 @@
 ## Statistics of solved tasks
 
-##### Total count: 52 tasks
+##### Total count: 58 tasks
 
 #### Solved:
   - Arrays
@@ -23,6 +23,11 @@
     - [Valid Sudoku](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/valid-sudoku.js)
     - [Single number](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/single-number.js)
     - [Intersection of two arrays 2](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/intersection-of-two-arrays-2.js)
+  - Strings
+    - [First unique character](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/strings/first-unique-character.js)
+    - [atoi](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/strings/atoi.js)
+    - [strStr()](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/strings/strStr().js)
+    - [Count and say](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/strings/count-and-say.js)
   - Math
     - [Palindrome integer](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/math/palindrome-integer.js)
   - Binary search
@@ -63,7 +68,9 @@
     - [Sorted Permutation Rank](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/math/sorted-permutation-rank.js)
     - [Largest coprime divisor](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/math/largest-coprime-divisor.js)
     - [Trailing zeros in factorial](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/math/trailing-zeros-in-factorial.js)
-    - [Implement Power Function](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/math/powx-n.js)
+    - [Implement Power Function](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/binary-search/powx-n.js)
+  - Strings
+    - [Longest Common Prefix](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/strings/longest-common-prefix.js)
   - Trees
     - [BST checker](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/trees/bst-checker.js)
   - Other
