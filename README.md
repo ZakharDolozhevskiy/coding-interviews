@@ -1,6 +1,6 @@
 ## Statistics of solved tasks
 
-##### Total count: 58 tasks
+##### Total count: 62 tasks
 
 #### Solved:
   - Arrays
@@ -30,6 +30,10 @@
     - [Count and say](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/strings/count-and-say.js)
   - Math
     - [Palindrome integer](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/math/palindrome-integer.js)
+  - Linked list
+    - [Reverse list](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/linked-list/reverse-list.js)
+    - [Merge Two Sorted Lists](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/linked-list/merge-sorted-lists.js)
+    - [Palindrome Linked List](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/linked-list/palindrome-linked-list.js)
   - Binary search
     - [Get missed numbers](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/binary-search/get-missed-numbers.js)
     - [Sqrt(x)](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/binary-search/sqrtx.js)
@@ -39,6 +43,7 @@
     - [Climbing stairs](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/dynamic-programming/climbing-stairs.js)
   - Trees
     - [Second largest item in bst](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/trees/second-largest-item-in-bst.js)
+    - [Symmetric Tree](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/trees/symmetric-tree.js)
     
 #### Solved with hints:
   - Arrays
