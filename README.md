@@ -1,6 +1,6 @@
 ## Statistics of solved tasks
 
-##### Total count: 62 tasks
+##### Total count: 67 tasks
 
 #### Solved:
   - Arrays
@@ -23,6 +23,9 @@
     - [Valid Sudoku](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/valid-sudoku.js)
     - [Single number](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/single-number.js)
     - [Intersection of two arrays 2](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/intersection-of-two-arrays-2.js)
+    - [First Bad Version](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/first-bad-version.js)
+  - Binary
+    - [Number of 1 Bits](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/binary/umber-of-1-Bits.js)
   - Strings
     - [First unique character](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/strings/first-unique-character.js)
     - [atoi](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/strings/atoi.js)
@@ -44,6 +47,7 @@
   - Trees
     - [Second largest item in bst](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/trees/second-largest-item-in-bst.js)
     - [Symmetric Tree](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/trees/symmetric-tree.js)
+    - [Convert Sorted Array to Binary Search Tree](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/trees/sorted-array-to-bst.js)
     
 #### Solved with hints:
   - Arrays
@@ -55,6 +59,9 @@
     - [Hotel bookings possible](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/hotel-bookings-possible.js)
     - [Maximum unsorted subarray](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/maximum-unsorted-subarray.js)
     - [Find the duplicate number](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/find-the-duplicate-number.js)
+    - [Merge Sorted Array](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/merge-sorted-array.js)
+  - Binary
+    - [Reverse Bits](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/binary/reverse-bits.js)
   - Dynamic programming
     - [Word break](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/dynamic-programming/word-break.js)
   - Math
