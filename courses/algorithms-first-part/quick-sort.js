@@ -34,19 +34,17 @@ class QuickSort {
   static pivotRight(arr, start = 0, end = arr.length - 1) {
     if (start >= end) return;
 
-    const pivot = end;
-    const index = this.partitionWithPivot(arr, start, end, pivot);
+    const index = this.partitionWithPivot(arr, start, end);
 
     this.pivotRight(arr, start, index - 1);
     this.pivotRight(arr, index + 1, end);
   }
 
-  static partitionWithPivot(arr, start, end, pivot) {
-    let pivotValue = arr[pivot];
+  static partitionWithPivot(arr, start, end) {
     let index = start;
 
     for (let i = start; i < end; i++) {
-      if (arr[i] < pivotValue) {
+      if (arr[i] < arr[end]) {
         [ arr[i], arr[index] ] = [ arr[index], arr[i] ];
         index++;
       }

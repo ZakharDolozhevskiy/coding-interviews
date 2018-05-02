@@ -1,6 +1,6 @@
 ## Statistics of solved tasks
 
-##### Total count: 67 tasks
+##### Total count: 70 tasks
 
 #### Solved:
   - Arrays
@@ -24,6 +24,10 @@
     - [Single number](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/single-number.js)
     - [Intersection of two arrays 2](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/intersection-of-two-arrays-2.js)
     - [First Bad Version](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/first-bad-version.js)
+  - Sorting and searching
+    - [Sort Colors](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/sort-colors.js)
+    - [Top K Frequent Elements](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/top-k-frequent.js)
+    - [Kth Largest Element in an Array](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/find-k-largest.js)
   - Binary
     - [Number of 1 Bits](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/binary/umber-of-1-Bits.js)
   - Strings
