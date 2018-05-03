@@ -1,6 +1,6 @@
 ## Statistics of solved tasks
 
-##### Total count: 70 tasks
+##### Total count: 73 tasks
 
 #### Solved:
   - Arrays
@@ -24,6 +24,7 @@
     - [Single number](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/single-number.js)
     - [Intersection of two arrays 2](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/intersection-of-two-arrays-2.js)
     - [First Bad Version](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/first-bad-version.js)
+    - [Group Anagrams](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/group-anagrams.js)
   - Sorting and searching
     - [Sort Colors](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/sort-colors.js)
     - [Top K Frequent Elements](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/top-k-frequent.js)
@@ -44,6 +45,7 @@
   - Binary search
     - [Get missed numbers](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/binary-search/get-missed-numbers.js)
     - [Sqrt(x)](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/binary-search/sqrtx.js)
+    - [Search for a Range](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/binary-search/search-range.js)
   - Dynamic programming
     - [Longest Increasing Subsequence](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/dynamic-programming/longest-increasing-subsequence.js)
     - [House robber](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/dynamic-programming/house-robber.js)
@@ -64,6 +66,7 @@
     - [Maximum unsorted subarray](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/maximum-unsorted-subarray.js)
     - [Find the duplicate number](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/find-the-duplicate-number.js)
     - [Merge Sorted Array](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/merge-sorted-array.js)
+    - [Find Peak Element](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/find-peak-element.js)
   - Binary
     - [Reverse Bits](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/binary/reverse-bits.js)
   - Dynamic programming
