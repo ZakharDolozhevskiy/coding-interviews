@@ -1,6 +1,6 @@
 ## Statistics of solved tasks
 
-##### Total count: 73 tasks
+##### Total count: 75 tasks
 
 #### Solved:
   - Arrays
@@ -25,10 +25,12 @@
     - [Intersection of two arrays 2](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/intersection-of-two-arrays-2.js)
     - [First Bad Version](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/first-bad-version.js)
     - [Group Anagrams](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/group-anagrams.js)
+    - [Search in Rotated Sorted Array](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/search-in-rotated-sorted-array.js)
   - Sorting and searching
     - [Sort Colors](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/sort-colors.js)
     - [Top K Frequent Elements](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/top-k-frequent.js)
     - [Kth Largest Element in an Array](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/find-k-largest.js)
+    - [Search a 2D Matrix II](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/binary/search-2D-Matrix.js)
   - Binary
     - [Number of 1 Bits](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/binary/umber-of-1-Bits.js)
   - Strings
