@@ -1,6 +1,6 @@
 ## Statistics of solved tasks
 
-##### Total count: 75 tasks
+##### Total count: 80 tasks
 
 #### Solved:
   - Arrays
@@ -33,6 +33,8 @@
     - [Search a 2D Matrix II](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/binary/search-2D-Matrix.js)
   - Binary
     - [Number of 1 Bits](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/binary/umber-of-1-Bits.js)
+  - Backtracking
+    - [Letter Combinations of a Phone Number](https://github.com/ZakharDolozhevskiy/coding-interviews/backtracking/letter-combinations.js)
   - Strings
     - [First unique character](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/strings/first-unique-character.js)
     - [atoi](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/strings/atoi.js)
@@ -71,6 +73,11 @@
     - [Find Peak Element](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/find-peak-element.js)
   - Binary
     - [Reverse Bits](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/binary/reverse-bits.js)
+  - Backtracking
+    - [Permutations](https://github.com/ZakharDolozhevskiy/coding-interviews/backtracking/permutations.js)
+    - [Generate Parentheses](https://github.com/ZakharDolozhevskiy/coding-interviews/backtracking/generate-parentheses.js)
+    - [Subsets](https://github.com/ZakharDolozhevskiy/coding-interviews/backtracking/subsets.js)
+    - [Binary Watch](https://github.com/ZakharDolozhevskiy/coding-interviews/backtracking/binary-watch.js)
   - Dynamic programming
     - [Word break](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/dynamic-programming/word-break.js)
   - Math
