@@ -1,6 +1,6 @@
 ## Statistics of solved tasks
 
-##### Total count: 80 tasks
+##### Total count: 85 tasks
 
 #### Solved:
   - Arrays
@@ -26,6 +26,8 @@
     - [First Bad Version](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/first-bad-version.js)
     - [Group Anagrams](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/group-anagrams.js)
     - [Search in Rotated Sorted Array](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/search-in-rotated-sorted-array.js)
+    - [Set Matrix Zeroes](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/set-matrix-zeroes.js)
+    - [Longest Substring Without Repeating Characters](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/longest-substring.js)
   - Sorting and searching
     - [Sort Colors](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/sort-colors.js)
     - [Top K Frequent Elements](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/top-k-frequent.js)
@@ -78,6 +80,7 @@
     - [Generate Parentheses](https://github.com/ZakharDolozhevskiy/coding-interviews/backtracking/generate-parentheses.js)
     - [Subsets](https://github.com/ZakharDolozhevskiy/coding-interviews/backtracking/subsets.js)
     - [Binary Watch](https://github.com/ZakharDolozhevskiy/coding-interviews/backtracking/binary-watch.js)
+    - [Word search](https://github.com/ZakharDolozhevskiy/coding-interviews/backtracking/word-search.js)
   - Dynamic programming
     - [Word break](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/dynamic-programming/word-break.js)
   - Math
@@ -101,6 +104,8 @@
     - [Longest Common Prefix](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/strings/longest-common-prefix.js)
   - Trees
     - [BST checker](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/trees/bst-checker.js)
+    - [Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/trees/construct-bst.js)
+    - [Populating Next Right Pointers in Each Node](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/trees/next-right-pointer.js)
   - Other
     - [Trie](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/other/trie.js)
     
