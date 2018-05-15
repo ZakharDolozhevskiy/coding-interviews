@@ -1,6 +1,6 @@
 ## Statistics of solved tasks
 
-##### Total count: 85 tasks
+##### Total count: 88 tasks
 
 #### Solved:
   - Arrays
@@ -28,6 +28,7 @@
     - [Search in Rotated Sorted Array](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/search-in-rotated-sorted-array.js)
     - [Set Matrix Zeroes](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/set-matrix-zeroes.js)
     - [Longest Substring Without Repeating Characters](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/longest-substring.js)
+    - [Longest Palindromic Substring](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/longest-palindromic-substring.js)
   - Sorting and searching
     - [Sort Colors](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/sort-colors.js)
     - [Top K Frequent Elements](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/top-k-frequent.js)
@@ -60,7 +61,7 @@
     - [Second largest item in bst](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/trees/second-largest-item-in-bst.js)
     - [Symmetric Tree](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/trees/symmetric-tree.js)
     - [Convert Sorted Array to Binary Search Tree](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/trees/sorted-array-to-bst.js)
-    
+    - [Kth Smallest Element in a BST](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/trees/kth-smallest-elem-in-bst.js)
 #### Solved with hints:
   - Arrays
     - [Max distance](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/max-distance.js)
@@ -106,6 +107,7 @@
     - [BST checker](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/trees/bst-checker.js)
     - [Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/trees/construct-bst.js)
     - [Populating Next Right Pointers in Each Node](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/trees/next-right-pointer.js)
+    - [Number of Islands](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/trees/number-of-Islands.js)
   - Other
     - [Trie](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/other/trie.js)
     
