@@ -1,6 +1,6 @@
 ## Statistics of solved tasks
 
-##### Total count: 88 tasks
+##### Total count: 93 tasks
 
 #### Solved:
   - Arrays
@@ -38,6 +38,8 @@
     - [Number of 1 Bits](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/binary/umber-of-1-Bits.js)
   - Backtracking
     - [Letter Combinations of a Phone Number](https://github.com/ZakharDolozhevskiy/coding-interviews/backtracking/letter-combinations.js)
+    - [Beautiful Arrangement](https://github.com/ZakharDolozhevskiy/coding-interviews/backtracking/beautiful-arrangement.js)
+    - [Combination Sum III](https://github.com/ZakharDolozhevskiy/coding-interviews/backtracking/combination-sum-3.js)
   - Strings
     - [First unique character](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/strings/first-unique-character.js)
     - [atoi](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/strings/atoi.js)
@@ -57,6 +59,7 @@
     - [Longest Increasing Subsequence](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/dynamic-programming/longest-increasing-subsequence.js)
     - [House robber](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/dynamic-programming/house-robber.js)
     - [Climbing stairs](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/dynamic-programming/climbing-stairs.js)
+    - [Jump Game](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/dynamic-programming/jump-game.js)
   - Trees
     - [Second largest item in bst](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/trees/second-largest-item-in-bst.js)
     - [Symmetric Tree](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/trees/symmetric-tree.js)
@@ -74,6 +77,7 @@
     - [Find the duplicate number](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/find-the-duplicate-number.js)
     - [Merge Sorted Array](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/merge-sorted-array.js)
     - [Find Peak Element](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/find-peak-element.js)
+    - [Increasing Triplet Subsequence](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/increasing-triplet-subsequence.js)
   - Binary
     - [Reverse Bits](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/binary/reverse-bits.js)
   - Backtracking
@@ -84,6 +88,7 @@
     - [Word search](https://github.com/ZakharDolozhevskiy/coding-interviews/backtracking/word-search.js)
   - Dynamic programming
     - [Word break](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/dynamic-programming/word-break.js)
+    - [Coin Change](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/dynamic-programming/coins-change.js)
   - Math
     - [All Factors](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/math/all-factors.js)
     - [Verify Prime](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/math/verify-prime.js)
