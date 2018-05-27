@@ -1,6 +1,6 @@
 ## Statistics of solved tasks
 
-##### Total count: 93 tasks
+##### Total count: 96 tasks
 
 #### Solved:
   - Arrays
@@ -51,6 +51,8 @@
     - [Reverse list](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/linked-list/reverse-list.js)
     - [Merge Two Sorted Lists](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/linked-list/merge-sorted-lists.js)
     - [Palindrome Linked List](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/linked-list/palindrome-linked-list.js)
+    - [Odd Even Linked List](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/linked-list/odd-even-linked-list.js)
+    - [Intersection of Two Linked Lists](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/linked-list/intersection-of-2-lists.js)
   - Binary search
     - [Get missed numbers](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/binary-search/get-missed-numbers.js)
     - [Sqrt(x)](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/binary-search/sqrtx.js)
@@ -89,6 +91,8 @@
   - Dynamic programming
     - [Word break](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/dynamic-programming/word-break.js)
     - [Coin Change](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/dynamic-programming/coins-change.js)
+  - Design
+    - [Serialize and Deserialize Binary Tree](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/design/serialize-deserialize-bst.js)
   - Math
     - [All Factors](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/math/all-factors.js)
     - [Verify Prime](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/math/verify-prime.js)
