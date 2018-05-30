@@ -1,6 +1,6 @@
 ## Statistics of solved tasks
 
-##### Total count: 96 tasks
+##### Total count: 100 tasks
 
 #### Solved:
   - Arrays
@@ -47,6 +47,7 @@
     - [Count and say](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/strings/count-and-say.js)
   - Math
     - [Palindrome integer](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/math/palindrome-integer.js)
+    - [Happy Number](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/math/happy-number.js)
   - Linked list
     - [Reverse list](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/linked-list/reverse-list.js)
     - [Merge Two Sorted Lists](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/linked-list/merge-sorted-lists.js)
@@ -93,6 +94,7 @@
     - [Coin Change](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/dynamic-programming/coins-change.js)
   - Design
     - [Serialize and Deserialize Binary Tree](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/design/serialize-deserialize-bst.js)
+    - [Insert Delete GetRandom O(1)](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/design/insert-delete-getRandom-O(1).js)
   - Math
     - [All Factors](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/math/all-factors.js)
     - [Verify Prime](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/math/verify-prime.js)
@@ -110,6 +112,8 @@
     - [Largest coprime divisor](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/math/largest-coprime-divisor.js)
     - [Trailing zeros in factorial](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/math/trailing-zeros-in-factorial.js)
     - [Implement Power Function](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/binary-search/powx-n.js)
+    - [Divide Two Integers](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/binary-search/divide-two-integers.js)
+    - [Fraction to Recurring Decimal](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/binary-search/fraction-to-recurring-decimal.js)
   - Strings
     - [Longest Common Prefix](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/strings/longest-common-prefix.js)
   - Trees

@@ -7,10 +7,6 @@ const sqrt = (a, x = 1) => {
   return y === x ? x ^ 0 : sqrt(a, y);
 };
 
-console.log(sqrt(4)); // 2
-console.log(sqrt(8)); // 2
-console.log(sqrt(25)); // 5
-
 // Итерационная формула Герона
 // Xn = 1/2 (Xn-1 + A / Xn-1)
 // где Xn произвольное число A числов для вычисления квадратного корня
