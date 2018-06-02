@@ -13,10 +13,15 @@ class RedBlackBST {
   }
 
   put(value, node = this.root) {
-    if (node === null) return new Node(value);
-    if (node.val > value) this.put(node.left, value);
-    else if (node.val < value) this.put(node.right, value);
-    else node.val = value;
+    if (node === null)
+      return new Node(value);
+
+    if (node.val > value)
+      node.left = this.put(node.left, value);
+    else if (node.val < value)
+      node.right = this.put(node.right, value);
+    else
+      node.val = value;
 
     if (this.isRed(node.right) && !this.isRed(node.left))
       node = this.rotateLeft(node);
@@ -24,6 +29,8 @@ class RedBlackBST {
       node = this.rotateRight(node);
     if (this.isRed(node.right) && this.isRed(node.left))
       this.flipColors(node);
+
+    return node;
   }
 
   search(key) {

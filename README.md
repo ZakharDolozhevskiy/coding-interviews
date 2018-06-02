@@ -1,6 +1,6 @@
 ## Statistics of solved tasks
 
-##### Total count: 100 tasks
+##### Total count: 103 tasks
 
 #### Solved:
   - Arrays
@@ -29,6 +29,7 @@
     - [Set Matrix Zeroes](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/set-matrix-zeroes.js)
     - [Longest Substring Without Repeating Characters](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/longest-substring.js)
     - [Longest Palindromic Substring](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/longest-palindromic-substring.js)
+    - [Majority Element](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/majority-element)
   - Sorting and searching
     - [Sort Colors](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/sort-colors.js)
     - [Top K Frequent Elements](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/top-k-frequent.js)
@@ -48,6 +49,7 @@
   - Math
     - [Palindrome integer](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/math/palindrome-integer.js)
     - [Happy Number](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/math/happy-number.js)
+    - [Evaluate Reverse Polish Notation](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/other/polish-notation.js)
   - Linked list
     - [Reverse list](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/linked-list/reverse-list.js)
     - [Merge Two Sorted Lists](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/linked-list/merge-sorted-lists.js)
@@ -114,6 +116,7 @@
     - [Implement Power Function](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/binary-search/powx-n.js)
     - [Divide Two Integers](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/binary-search/divide-two-integers.js)
     - [Fraction to Recurring Decimal](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/binary-search/fraction-to-recurring-decimal.js)
+    - [Sum of Two Integers](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/binary-search/sum-of-two-integers.js)
   - Strings
     - [Longest Common Prefix](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/strings/longest-common-prefix.js)
   - Trees
