@@ -1,6 +1,6 @@
 ## Statistics of solved tasks
 
-##### Total count: 103 tasks
+##### Total count: 105 tasks
 
 #### Solved:
   - Arrays
@@ -65,6 +65,8 @@
     - [House robber](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/dynamic-programming/house-robber.js)
     - [Climbing stairs](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/dynamic-programming/climbing-stairs.js)
     - [Jump Game](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/dynamic-programming/jump-game.js)
+    - [Combination Sum IV](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/dynamic-programming/combination-sum-iv.js)
+    - [House Robber II](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/dynamic-programming/house-robber-ii.js)
   - Trees
     - [Second largest item in bst](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/trees/second-largest-item-in-bst.js)
     - [Symmetric Tree](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/trees/symmetric-tree.js)
