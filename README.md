@@ -1,6 +1,6 @@
 ## Statistics of solved tasks
 
-##### Total count: 105 tasks
+##### Total count: 107 tasks
 
 #### Solved:
   - Arrays
@@ -72,6 +72,7 @@
     - [Symmetric Tree](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/trees/symmetric-tree.js)
     - [Convert Sorted Array to Binary Search Tree](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/trees/sorted-array-to-bst.js)
     - [Kth Smallest Element in a BST](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/trees/kth-smallest-elem-in-bst.js)
+    - [Clone Graph](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/trees/clone-graph.js)
 #### Solved with hints:
   - Arrays
     - [Max distance](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/max-distance.js)
@@ -126,6 +127,7 @@
     - [Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/trees/construct-bst.js)
     - [Populating Next Right Pointers in Each Node](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/trees/next-right-pointer.js)
     - [Number of Islands](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/trees/number-of-Islands.js)
+    - [Course Schedule](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/trees/course-schedule.js)
   - Other
     - [Trie](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/other/trie.js)
     
