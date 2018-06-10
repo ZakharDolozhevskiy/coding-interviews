@@ -33,3 +33,34 @@ const getPalindromicSubstring = (s, i, j) => {
 
   return r;
 };
+
+const longestPalindrome = s => {
+  let left = 0;
+  let right = 0;
+  let l1, l2, ln;
+
+  for (let i = 0; i < s.length; i++) {
+    l1 = getPalindromicSubstring(s, i, i);
+    l2 = getPalindromicSubstring(s, i, i + 1);
+
+    ln = Math.max(l1, l2);
+
+    if (ln > right - left) {
+      left = i - ((ln - 1) / 2 ^ 0);
+      right = i + (ln / 2 ^ 0);
+    }
+  }
+
+  return s.slice(left, right + 1)
+};
+
+const getPalindromicSubstring = (s, i, j) => {
+  let left = i, right = j;
+
+  while (left >= 0 && right < s.length && s[left] === s[right]) {
+    left--;
+    right++;
+  }
+
+  return right - left - 1;
+};

@@ -1,6 +1,6 @@
 ## Statistics of solved tasks
 
-##### Total count: 107 tasks
+##### Total count: 112 tasks
 
 #### Solved:
   - Arrays
@@ -56,6 +56,7 @@
     - [Palindrome Linked List](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/linked-list/palindrome-linked-list.js)
     - [Odd Even Linked List](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/linked-list/odd-even-linked-list.js)
     - [Intersection of Two Linked Lists](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/linked-list/intersection-of-2-lists.js)
+    - [Reorder List](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/linked-list/reorder-list.js)
   - Binary search
     - [Get missed numbers](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/binary-search/get-missed-numbers.js)
     - [Sqrt(x)](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/binary-search/sqrtx.js)
@@ -73,6 +74,8 @@
     - [Convert Sorted Array to Binary Search Tree](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/trees/sorted-array-to-bst.js)
     - [Kth Smallest Element in a BST](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/trees/kth-smallest-elem-in-bst.js)
     - [Clone Graph](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/trees/clone-graph.js)
+  - Other
+    - [Non-overlapping Intervals](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/other/non-overlapping-intervals.js)
 #### Solved with hints:
   - Arrays
     - [Max distance](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/arrays/max-distance.js)
@@ -122,6 +125,8 @@
     - [Sum of Two Integers](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/binary-search/sum-of-two-integers.js)
   - Strings
     - [Longest Common Prefix](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/strings/longest-common-prefix.js)
+    - [Longest Repeating Character Replacement](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/strings/longest-repeating-character-rep.js)
+    - [Palindromic Substrings](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/strings/palindromic-substrings.js)
   - Trees
     - [BST checker](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/trees/bst-checker.js)
     - [Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/ZakharDolozhevskiy/coding-interviews/blob/master/trees/construct-bst.js)
