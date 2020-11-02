@@ -26,7 +26,7 @@ var bstFromPreorder = function(preorder) {
     return root
 };
 
-// O(n2)
+// O(n)
 var bstFromPreorder = function(preorder) {
     bstFromPreorder.index = 0
     return helper(preorder, preorder[0], -Infinity, Infinity, preorder.length)

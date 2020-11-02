@@ -11,7 +11,6 @@
 
     while(nodes.length) {
       const node = nodes.shift()
-      console.log(node)
       node.push(node.left)
       node.push(node.right)
     }
