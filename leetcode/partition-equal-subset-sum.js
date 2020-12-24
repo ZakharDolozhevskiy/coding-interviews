@@ -31,17 +31,13 @@ const canPartition = (nums) => {
     const target = sum / 2
 
     // matrix by indexes of nums to all possible combinations from 0 to target
-    const dp = new Array(nums.length + 1).fill(null)
-        .map(() => {
-            let arr = new Array(target + 1).fill(false)
-            arr[0] = true
-            return arr
-        })
+    const dp = new Array(nums.length + 1).fill(false)
+        .map(() => new Array(target + 1).fill(false))
 
     for (let i = 1; i < dp.length; i++) {
-        for (let j = 0; j <= target; j++) {
+        for (let j = 0; j < dp[i].length; j++) {
             if (j >= nums[i - 1]) {
-                dp[i][j] = dp[i][j] || dp[i - 1][j - nums[i - 1]]
+                dp[i][j] = dp[i - 1][j - nums[i - 1]] || dp[i - 1][j]
             } else {
                 dp[i][j] = dp[i - 1][j]
             }
