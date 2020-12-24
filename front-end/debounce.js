@@ -1,11 +1,24 @@
 // implement basic debounce()
 // https://bigfrontend.dev/problem/implement-basic-debounce
 
-const debounce = function(f, wait) {
+function debounce(func, wait, option = {leading: false, trailing: true}) {
     let timeout = null;
+    let skip = false
 
     return (...args) => {
-        timeout && clearTimeout(timeout);
-        timeout = setTimeout(() => f(...args), wait)
+      if (timeout) {
+        skip = false
+        clearTimeout(timeout);
+      } else {
+        if (option.leading) {
+          func(...args)
+          skip = true
+        }
+      }
+
+      timeout = setTimeout(() => {
+        !skip && option.trailing && func(...args)
+        timeout = null
+      }, wait)
     }
 }
