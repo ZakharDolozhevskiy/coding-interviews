@@ -35,3 +35,35 @@ var canFinish = function(numCourses, prerequisites) {
 
     return true
 };
+
+// BFS
+
+var canFinish = function(numCourses, prerequisites) {
+    let indegree = new Array(numCourses).fill(0)
+
+    prerequisites.forEach(([course, prerequisite]) => {
+        indegree[course] += 1
+    })
+
+    let queue = []
+
+    indegree.forEach((prerequisite, course) => {
+        prerequisite === 0 && queue.push(course)
+    })
+
+    let scheduled = 0
+
+    while (queue.length) {
+        let cand = queue.pop()
+        scheduled++
+
+        prerequisites.forEach(([course, prerequisite]) => {
+            if (cand === prerequisite) {
+                indegree[course] -= 1
+                indegree[course] === 0 && queue.push(course)
+            }
+        })
+    }
+
+    return scheduled === numCourses
+};

@@ -1,75 +1,167 @@
+// Study https://www.youtube.com/playlist?list=PL9xmBV_5YoZNqDI8qfOZgzbqahCUmUEin
+// Inspired by https://github.com/liubinyi/red-black-tree-js
 class Node {
-  constructor(v) {
-    this.val = v;
-    this.right = null;
-    this.left = null;
-    this.color = 'red';
-  }
+    constructor(key, value) {
+        this.key = key
+        this.val = value
+        this.left = null
+        this.right = null
+        this.color = null
+        this.parent = null
+    }
 }
 
-class RedBlackBST {
-  constructor(root) {
-    this.root = root;
-  }
-
-  put(value, node = this.root) {
-    if (node === null)
-      return new Node(value);
-
-    if (node.val > value)
-      node.left = this.put(node.left, value);
-    else if (node.val < value)
-      node.right = this.put(node.right, value);
-    else
-      node.val = value;
-
-    if (this.isRed(node.right) && !this.isRed(node.left))
-      node = this.rotateLeft(node);
-    if (this.isRed(node.left) && this.isRed(node.left.left))
-      node = this.rotateRight(node);
-    if (this.isRed(node.right) && this.isRed(node.left))
-      this.flipColors(node);
-
-    return node;
-  }
-
-  search(key) {
-    let node = this.root;
-
-    while (node !== null) {
-      if (node.val === key) return node;
-      if (node.val > key) node = node.left;
-      else node = node.right;
+class Tree {
+    constructor() {
+        this.root = null
     }
-    return null;
-  }
+    insert(key, value) {
+        const node = new Node(key, value)
 
-  rotateLeft(node) {
-    let x = node.right;
-    node.right = x.left;
-    x.left = node;
-    x.color = node.color;
-    node.color = 'red';
-    return x;
-  }
+        if (this.root === null) {
+            this.root = node
+            this.root.color = 'black'
+        } else {
+            let pointerA = null, pointerB = this.root
 
-  rotateRight(node) {
-    let x = node.left;
-    node.left = x.right;
-    x.right = node;
-    x.color = node.color;
-    node.color = 'red';
-    return x;
-  }
+            while (pointerB) {
+                pointerA = pointerB
+                pointerB = pointerB.key > node.key ? pointerB.left : pointerB.right
+            }
 
-  flipColors(node) {
-    node.color = 'red';
-    node.left.color = 'black';
-    node.right.color = 'black';
-  }
+            node.parent = pointerA
+            node.color = 'red'
 
-  isRed(node) {
-    if (node === null) return false;
-    return node.color === 'red';
-  }
+            if (pointerA.key > node.key) {
+                pointerA.left = node
+            } else {
+                pointerA.right = node
+            }
+
+            this.fixTree(node)
+        }
+    }
+    search(key) {
+        let node = this.root
+
+        while(node) {
+            if (node.key === key) {
+                return node
+            } else if (node.key > key) {
+                node = node.left
+            } else {
+                node = node.right
+            }
+        }
+
+        return null
+    }
+    fixTree(node) {
+        while (node.parent !== null && node.parent.color === 'red') {
+            if (node.parent === node.parent.parent.left) {
+                let uncle = node.parent.parent.right
+                // case 1: parent and uncle are red
+                if (uncle && uncle.color === 'red') {
+                    uncle.color = 'black'
+                    node.parent.color = 'black'
+                    node.parent.parent.color = 'red'
+                    node = node.parent.parent
+                    continue
+                }
+                // case 2: uncle black and triangle is formed
+                if (node === node.parent.right) {
+                    node = node.parent
+                    this.rotateLeft(node)
+                }
+                // case 3: uncle black and line is formed
+                node.parent.color = 'black'
+                node.parent.parent.color = 'red'
+                this.rotateRight(node.parent.parent)
+            } else {
+                // same as above but for right direction from grand parent
+                let uncle = node.parent.parent.left
+
+                if (uncle && uncle.color === 'red') {
+                    node.color = 'black'
+                    ode.parent.color = 'black'
+                    node.parent.parent.color = 'red'
+                    node = node.parent.parent
+                    continue
+                }
+
+                if (node === node.parent.left) {
+                    node = node.parent
+                    this.rotateRight(node)
+                }
+
+                node.parent.color = 'black'
+                node.parent.parent.color = 'red'
+                this.rotateLeft(node.parent.parent)
+            }
+        }
+        // case 0: root node
+        this.root.color = 'black'
+    }
+    /**
+     * Rotate left
+     *       y                   x
+     *      / \                 / \
+     *     x  Gamma   <====   alpha y
+     *   /  \                      / \
+     * alpha beta               beta Gamma
+     */
+    rotateLeft(node) {
+        let next = node.right
+
+        node.right = next.left
+        next.left = node
+
+        if (node.right) {
+            node.right.parent = node
+        }
+
+        if (node.parent === null) {
+            this.root = y
+        } else {
+            if (node.parent.left === node) {
+                node.parent.left = y
+            } else {
+                node.parent.right = y
+            }
+        }
+
+        y.parent = node.parent
+        node.parent = y
+    }
+    /**
+     * Rotate right
+     *       y                   x
+     *      / \                 / \
+     *     x  Gamma   ====>   alpha y
+     *   /  \                      / \
+     * alpha beta               beta Gamma
+     */
+    rotateRight(node) {
+        let next = node.left
+
+        node.left = next.right
+        next.right = node
+
+        if (node.left) {
+            node.left.parent = node
+        }
+
+        if (node.parent === null) {
+            this.root = next
+        } else {
+            if (node.parent.left === node) {
+                node.parent.left = next
+            } else {
+                node.parent.right = next
+            }
+        }
+
+        next.parent = node.parent
+        node.parent = next
+    }
 }
