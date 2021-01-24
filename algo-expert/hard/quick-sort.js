@@ -16,7 +16,7 @@ const sort = (input, start = 0, end = input.length - 1) => {
 const partition = (input, start, end) => {
     let swapIndex = start
 
-    for (let i = 0; i < input.length; i++) {
+    for (let i = 0; i < end; i++) {
         if (input[i] < input[end]) {
             [input[swapIndex], input[i]] = [input[swapIndex], input[i]]
         }
